@@ -19,7 +19,6 @@
 # About the project
 
 - You can also check the content when you want [oscar.app.br/oscar/...](http://oscar.app.br.46a7990e585947ef9056.eastus.aksapp.io/oscar/c4cacfcdc81ec4caeccbc4caa87fc4cae4dac4ca1679c4ca8f14c4cac9f0c4ca45c4c81ed3d9c4ca6512c4cac20ac4cac51cc4caaab3c4ca9bf3c4cac74dc4ca70efc4ca6f49c4ca1f0ec4ca98f1c4ca3c59eccbb6d7c4ca3769a87f).
--
 - It's possible but we'll not use HTML + PHP for the same file. We'll split it in different little pieces with different 
 responsabilities.
 - At the PHP application we'll transform this index.html it in a [Twig](https://twig.symfony.com/) template egine (perhaps the most important in the PHP world).
